@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-07j=8zp8cc=g7pok^xq@n8!8ek%m-b!sh)#=t42*yz1h(s#53#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['machinelearning-model-builder.herokuapp.com','127.0.0.1']
 
 
 # Application definition
